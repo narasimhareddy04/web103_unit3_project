@@ -2,11 +2,11 @@
 
 Submitted by: **Mohana Narasimha Reddy Attunuru**
 
-About this web app: **Dive into a world of events with the "Eventful Explorer"! Our platform curates a wide array of events, organized neatly according to locations, providing users with a seamless exploration experience. Users can navigate through various locations, each with a unique description and vibrant imagery, to discover events that pique their interest.
+About this web app: Dive into a world of events with the "Eventful Explorer"! Our platform curates a wide array of events, organized neatly according to locations, providing users with a seamless exploration experience. Users can navigate through various locations, each with a unique description and vibrant imagery, to discover events that pique their interest.
 
 Upon selecting a location, users are directed to a detailed page that showcases all events scheduled at that location, each presented with vivid images and essential details. Users can easily scroll through these events, gaining quick insights into what’s happening where. With an intuitive design, that includes engaging hover-over animations and a clean, user-friendly interface, the "Eventful Explorer" invites users to immerse themselves in a journey of discovering experiences, adventures, and activities happening around them, all in just a few clicks.
 
-Join us in exploring events effortlessly and ensuring you never miss out on memorable moments!**
+Join us in exploring events effortlessly and ensuring you never miss out on memorable moments!
 
 Time spent: **72** hours
 
